@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chudengchutx&theme=rogue" />
+  <img align="center" src="https://streak-stats.demolab.com?user=chudengchutx&theme=rogue&locale=cn" />
 </p>
 
 <hr style="border: none; border-top: 2px dashed #ccc; margin: 10px 0;">
@@ -14,7 +14,7 @@
       <h3 style="margin-top: 0; margin-bottom: 5px;">👨‍💻 Code & Projects</h3>
       <p style="margin-top: 0; margin-bottom: 5px;">
         Building with <b>TypeScript</b>. <br/>
-        Focus: <a href="https://github.com/chudengchutx/Abu-Cowork"><b>Abu-Cowork</b></a> <br/>
+        Focus: <b>OneDay · Markdown</b> <br/>
         Exploring: <b>AI Tools, Claude, Open Source</b>
       </p>
     </td>
