@@ -29,17 +29,17 @@
 | 🔒 **OneDayCapture** | `2026‑08‑31 14:08` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
 | 🔒 **linglipin** | `2026‑08‑31 12:02` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
 | 🔒 **jianlitong** | `2026‑08‑31 11:21` | 简历通：原生 macOS SwiftUI 简历编辑器 |
-| 🔒 **lucas-site** | `2026‑08‑22 17:23` | — |
-| [cola-pages](https://github.com/chudengchutx/cola-pages) | `2026‑08‑22 17:12` | — |
+| 🔒 **lucas-site** | `2026‑08‑22 17:23` | Lucas 个人作品集：单页主页，作品 / 思考 / 关于 / 联系 |
+| [cola-pages](https://github.com/chudengchutx/cola-pages) | `2026‑08‑22 17:12` | Cola 项目共用的 GitHub Pages 部署仓 |
 | [obsidian-advanced-play](https://github.com/chudengchutx/obsidian-advanced-play) | `2026‑08‑18 22:59` | Obsidian 高阶玩法：属性、Bases、知识复利与 Agent 扫库约定 |
-| 🔒 **personal-website** | `2026‑08‑06 14:47` | — |
+| 🔒 **personal-website** | `2026‑08‑06 14:47` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | [ai-personal-tools](https://github.com/chudengchutx/ai-personal-tools) | `2026‑05‑05 18:53` | AI-assisted personal tools: membership price parser, job … |
-| 🔒 **claude-code-history** | `2026‑04‑15 20:09` | — |
-| 🔒 **magic** | `2026‑04‑15 18:24` | — |
-| 🔒 **movie** | `2026‑04‑15 13:49` | — |
-| 🔒 **peek** | `2026‑04‑15 12:25` | — |
+| 🔒 **claude-code-history** | `2026‑04‑15 20:09` | Claude Code 对话与工作上下文备份，换机后续上 |
+| 🔒 **magic** | `2026‑04‑15 18:24` | Magic Resume：在线简历编辑，实时预览、主题与 PDF 导出 |
+| 🔒 **movie** | `2026‑04‑15 13:49` | 电影资源自动搜索、转存夸克并下载到极空间 NAS |
+| 🔒 **peek** | `2026‑04‑15 12:25` | Peek：macOS 贴顶侧边栏，搜索链接、查看 GitHub |
 | 🔒 **EnglishDiary** | `2026‑04‑14 18:11` | 英语学习日记 iOS App — SwiftUI + SQLite + iCloud 同步 |
-| 🔒 **learning-English** | `2026‑04‑14 15:51` | — |
+| 🔒 **learning-English** | `2026‑04‑14 15:51` | 阿布英语学习日记：生成课程、导入学习并追踪进度 |
 <!-- OWN_REPOS:END -->
 
 #### 最近在看
