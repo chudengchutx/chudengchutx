@@ -8,6 +8,9 @@ import json
 import os
 import re
 import urllib.request
+from datetime import datetime, timedelta, timezone
+
+BEIJING = timezone(timedelta(hours=8))
 
 OWNER = "chudengchutx"
 README = os.path.join(os.path.dirname(__file__), "..", "README.md")
@@ -31,20 +34,29 @@ def fetch_repos():
     return out
 
 
+def fmt_time(iso):
+    """北京时间精确到分钟；用不间断字符，避免表格里被拆行。"""
+    if not iso:
+        return "—"
+    dt = datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(BEIJING)
+    text = dt.strftime("%Y-%m-%d %H:%M")
+    glued = text.replace("-", "\u2011").replace(" ", "\u00a0")
+    return f"`{glued}`"
+
+
 def cell(repo):
     name = repo["name"]
     title = f"[{name}]({repo['html_url']})" if not repo["private"] else f"🔒 **{name}**"
     desc = (repo.get("description") or "—").replace("|", "\\|").strip()
     if len(desc) > 60:
         desc = desc[:57] + "…"
-    date = (repo.get("pushed_at") or "")[:10]
-    return f"| {title} | {desc} | {date} |"
+    return f"| {title} | {fmt_time(repo.get('pushed_at'))} | {desc} |"
 
 
 def table(rows):
     if not rows:
         return "*（暂无）*"
-    head = "| 仓库 | 说明 | 最近更新 |\n|---|---|---|"
+    head = "| 仓库 | 最近更新 | 说明 |\n|:---|:---:|---|"
     return head + "\n" + "\n".join(rows)
 
 
