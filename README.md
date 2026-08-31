@@ -61,7 +61,7 @@
 | 🔒 **jianlitong** | 简历通：原生 macOS SwiftUI 简历编辑器 | Swift | 2026-08-31 |
 | 🔒 **lucas-site** | — | TypeScript | 2026-08-22 |
 | [cola-pages](https://github.com/chudengchutx/cola-pages) | — | — | 2026-08-22 |
-| [chudengchutx](https://github.com/chudengchutx/chudengchutx) | — | — | 2026-08-19 |
+| [chudengchutx](https://github.com/chudengchutx/chudengchutx) | — | — | 2026-08-31 |
 | [obsidian-advanced-play](https://github.com/chudengchutx/obsidian-advanced-play) | Obsidian 高阶玩法：属性、Bases、知识复利与 Agent 扫库约定 | — | 2026-08-18 |
 | 🔒 **personal-website** | — | TypeScript | 2026-08-06 |
 | [ai-personal-tools](https://github.com/chudengchutx/ai-personal-tools) | AI-assisted personal tools: membership price parser, job … | JavaScript | 2026-05-05 |
