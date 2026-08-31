@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chudengchutx&theme=rogue" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chudeng&theme=rogue" />
 </p>
 
 <hr style="border: none; border-top: 2px dashed #ccc; margin: 10px 0;">
