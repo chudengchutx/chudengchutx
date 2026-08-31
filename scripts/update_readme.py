@@ -37,15 +37,14 @@ def cell(repo):
     desc = (repo.get("description") or "—").replace("|", "\\|").strip()
     if len(desc) > 60:
         desc = desc[:57] + "…"
-    lang = repo.get("language") or "—"
     date = (repo.get("pushed_at") or "")[:10]
-    return f"| {title} | {desc} | {lang} | {date} |"
+    return f"| {title} | {desc} | {date} |"
 
 
 def table(rows):
     if not rows:
         return "*（暂无）*"
-    head = "| 仓库 | 说明 | 语言 | 最近更新 |\n|---|---|---|---|"
+    head = "| 仓库 | 说明 | 最近更新 |\n|---|---|---|"
     return head + "\n" + "\n".join(rows)
 
 
