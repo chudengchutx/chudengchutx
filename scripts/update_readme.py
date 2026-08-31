@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""刷新主页 README 的仓库榜单：自有仓库 / Fork 仓库各一块，均按最近更新倒序。
+"""刷新主页 README 的自有仓库榜单，按最近更新倒序。
 
 数据来自 GitHub API（token 取 PROFILE_TOKEN，缺省回退 GITHUB_TOKEN）。
 只在内容有变化时改写 README，避免 Actions 空转提交。
+不展示 Fork。
 """
 import json
 import os
@@ -15,7 +16,6 @@ BEIJING = timezone(timedelta(hours=8))
 OWNER = "chudengchutx"
 README = os.path.join(os.path.dirname(__file__), "..", "README.md")
 TOKEN = os.environ.get("PROFILE_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
-FORK_LIMIT = 8
 
 
 def fetch_repos():
@@ -70,17 +70,15 @@ def splice(text, marker, content):
 
 repos = fetch_repos()
 own = [r for r in repos if not r["fork"] and r["name"] != OWNER]
-forks = [r for r in repos if r["fork"]][:FORK_LIMIT]
 
 path = os.path.abspath(README)
 with open(path, encoding="utf-8") as f:
     readme = f.read()
 
-new = splice(splice(readme, "OWN_REPOS", table([cell(r) for r in own])),
-             "FORKS", table([cell(r) for r in forks]))
+new = splice(readme, "OWN_REPOS", table([cell(r) for r in own]))
 if new == readme:
     print("榜单无变化，跳过")
 else:
     with open(path, "w", encoding="utf-8") as f:
         f.write(new)
-    print(f"榜单已更新：自有 {len(own)} 个，fork {len(forks)} 个")
+    print(f"榜单已更新：自有 {len(own)} 个")
