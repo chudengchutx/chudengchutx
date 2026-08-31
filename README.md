@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=chudengchutx&theme=rogue&locale=cn" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=chudengchutx&theme=rogue" />
 </p>
 
 <hr style="border: none; border-top: 2px dashed #ccc; margin: 10px 0;">
