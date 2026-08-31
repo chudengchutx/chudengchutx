@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=68FF00&background=000000&center=true&vCenter=true&width=450&height=40&lines=Hello,+I'm+chudengchutx+%F0%9F%91%8B;Code+%7C+TypeScript+%7C+AI+%7C+Life"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=68FF00&background=000000&center=true&vCenter=true&width=450&height=40&lines=I%27m+chudeng+%F0%9F%91%8B;Code+%7C+TypeScript+%7C+AI+%7C+Life"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chudeng&theme=rogue" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chudengchutx&theme=rogue" />
 </p>
 
 <hr style="border: none; border-top: 2px dashed #ccc; margin: 10px 0;">
