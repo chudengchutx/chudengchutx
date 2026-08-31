@@ -52,7 +52,7 @@ Swift · SwiftUI · TypeScript · Python
 | [ip-as-logo-skill](https://github.com/chudengchutx/ip-as-logo-skill) | A compact Agent Skill for highly simplified, rounded, sub… | — | 2026-08-19 |
 | [grok-app](https://github.com/chudengchutx/grok-app) | Desktop workbench for Grok Build CLI — sessions, projects… | — | 2026-08-18 |
 | [md-wechat](https://github.com/chudengchutx/md-wechat) | WeChat Markdown editor & formatter｜公众号 Markdown 排版工具：26 套… | — | 2026-08-12 |
-| [LockIME](https://github.com/chudengchutx/LockIME) | A native macOS menu-bar app that keeps your keyboard input… | — | 2026-07-21 |
+| [LockIME](https://github.com/chudengchutx/LockIME) | A native macOS menu-bar app that keeps your keyboard inpu… | — | 2026-07-21 |
 | [sub2api](https://github.com/chudengchutx/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车… | — | 2026-07-17 |
 | [claude-relay-service](https://github.com/chudengchutx/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droi… | — | 2026-07-15 |
 | [PixelRAG](https://github.com/chudengchutx/PixelRAG) | The end of web parsing. The beginning of scalable pixel-n… | — | 2026-06-24 |
