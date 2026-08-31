@@ -1,0 +1,32 @@
+name: 更新主页仓库榜单
+on:
+  schedule:
+    - cron: "17 * * * *"   # 每小时 17 分
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["README.md"]
+permissions:
+  contents: write
+concurrency:
+  group: readme-update
+  cancel-in-progress: true
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/update_readme.py
+        env:
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+      - name: 有变化才提交
+        run: |
+          git config user.name  "profile-readme-bot"
+          git config user.email "chudengchutx@users.noreply.github.com"
+          if git diff --quiet README.md; then
+            echo "榜单无变化，不提交"
+          else
+            git add README.md
+            git commit -m "📋 仓库榜单自动刷新 $(date -u +'%m-%d %H:%M') UTC"
+            git push
+          fi
