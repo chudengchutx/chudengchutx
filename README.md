@@ -21,7 +21,6 @@
     <td style="width: 50%; padding-left: 20px; vertical-align: top;">
       <h3 style="margin-top: 0; margin-bottom: 5px;">🌱 More About Me</h3>
       <p style="margin-top: 0; margin-bottom: 5px;">
-        🏠 <b>Working from home</b>. <br/>
         ✨ Always learning something new. <br/>
         Let's connect! 👇
       </p>
