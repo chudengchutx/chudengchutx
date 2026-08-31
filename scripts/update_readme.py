@@ -4,6 +4,7 @@
 数据来自 GitHub API（token 取 PROFILE_TOKEN，缺省回退 GITHUB_TOKEN）。
 只在内容有变化时改写 README，避免 Actions 空转提交。
 """
+import json
 import os
 import re
 import urllib.request
@@ -11,11 +12,12 @@ import urllib.request
 OWNER = "chudengchutx"
 README = os.path.join(os.path.dirname(__file__), "..", "README.md")
 TOKEN = os.environ.get("PROFILE_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
+FORK_LIMIT = 8
 
 
 def fetch_repos():
     """分页拉取本人名下全部仓库（含私有），接口已按 pushed_at 倒序。"""
-    out, url = [], f"https://api.github.com/user/repos?type=owner&sort=pushed&per_page=100"
+    out, url = [], "https://api.github.com/user/repos?type=owner&sort=pushed&per_page=100"
     while url:
         req = urllib.request.Request(url, headers={
             "Authorization": f"Bearer {TOKEN}",
@@ -24,7 +26,8 @@ def fetch_repos():
         })
         with urllib.request.urlopen(req, timeout=30) as r:
             out += json.loads(r.read())
-            url = (r.headers.get("Link") or "").split('<')[1].split('>')[0] if 'rel="next"' in r.headers.get("Link", "") else None
+            link = r.headers.get("Link") or ""
+            url = link.split("<")[1].split(">")[0] if 'rel="next"' in link else None
     return out
 
 
@@ -54,20 +57,19 @@ def splice(text, marker, content):
     return text + f"\n<!-- {marker}:START -->\n{content}\n<!-- {marker}:END -->\n"
 
 
-import json  # noqa: E402
-
 repos = fetch_repos()
-own = table([cell(r) for r in repos if not r["fork"]])
-forks = table([cell(r) for r in repos if r["fork"]])
+own = [r for r in repos if not r["fork"] and r["name"] != OWNER]
+forks = [r for r in repos if r["fork"]][:FORK_LIMIT]
 
 path = os.path.abspath(README)
 with open(path, encoding="utf-8") as f:
     readme = f.read()
 
-new = splice(splice(readme, "OWN_REPOS", own), "FORKS", forks)
+new = splice(splice(readme, "OWN_REPOS", table([cell(r) for r in own])),
+             "FORKS", table([cell(r) for r in forks]))
 if new == readme:
     print("榜单无变化，跳过")
 else:
     with open(path, "w", encoding="utf-8") as f:
         f.write(new)
-    print(f"榜单已更新：自有 {sum(1 for r in repos if not r['fork'])} 个，fork {sum(1 for r in repos if r['fork'])} 个")
+    print(f"榜单已更新：自有 {len(own)} 个，fork {len(forks)} 个")
