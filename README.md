@@ -2,7 +2,7 @@
   <img src="assets/cover-001.png" alt="初灯 · chudengchutx" width="100%" />
 </p>
 
-产品人。写原生工具，把 AI 接进每天会打开的东西里。
+产品人。自己写工具，给自己用。
 
 ### 在做
 
