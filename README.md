@@ -42,5 +42,20 @@
 | 🔒 **learning-English** | `2026‑04‑14 15:51` | 阿布英语学习日记：生成课程、导入学习并追踪进度 |
 <!-- OWN_REPOS:END -->
 
+#### 最近在看
+
+<!-- FORKS:START -->
+| 仓库 | 最近更新 | 说明 |
+|:---|:---:|---|
+| [ip-as-logo-skill](https://github.com/chudengchutx/ip-as-logo-skill) | `2026‑08‑19 13:31` | A compact Agent Skill for highly simplified, rounded, sub… |
+| [grok-app](https://github.com/chudengchutx/grok-app) | `2026‑08‑18 11:07` | Desktop workbench for Grok Build CLI — sessions, projects… |
+| [md-wechat](https://github.com/chudengchutx/md-wechat) | `2026‑08‑12 15:37` | WeChat Markdown editor & formatter｜公众号 Markdown 排版工具：26 套… |
+| [LockIME](https://github.com/chudengchutx/LockIME) | `2026‑07‑21 09:44` | A native macOS menu-bar app that keeps your keyboard inpu… |
+| [sub2api](https://github.com/chudengchutx/sub2api) | `2026‑07‑17 22:09` | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车… |
+| [claude-relay-service](https://github.com/chudengchutx/claude-relay-service) | `2026‑07‑15 09:00` | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droi… |
+| [PixelRAG](https://github.com/chudengchutx/PixelRAG) | `2026‑06‑24 17:01` | The end of web parsing. The beginning of scalable pixel-n… |
+| [Proma](https://github.com/chudengchutx/Proma) | `2026‑06‑16 23:43` | 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive… |
+<!-- FORKS:END -->
+
 <sub>每小时由 GitHub Actions 刷新。勿手改榜单区。</sub>
 </details>
