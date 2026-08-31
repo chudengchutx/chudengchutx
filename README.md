@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="初灯 · chudengchutx" width="100%" />
+  <img src="assets/cover.png" alt="初灯 · chudengchutx" width="100%" />
 </p>
 
 产品人。写原生工具，把 AI 接进每天会打开的东西里。
