@@ -24,6 +24,7 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **cola-design-demo** | `2026‑09‑02 17:39` | — |
 | 🔒 **oneday** | `2026‑09‑01 12:35` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **ImagePreviewer** | `2026‑08‑31 21:16` | macOS 图片预览器：浏览、裁剪、OCR、去背景 |
 | 🔒 **compressi** | `2026‑08‑31 21:16` | Compressi：本地 macOS 图片压缩与格式转换，图片不上云 |
