@@ -24,8 +24,8 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **Markdown** | `2026‑09‑03 18:33` | 原生 macOS Markdown 阅读、编辑与分享工具 |
-| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑03 15:57` | Markdown 客户端发布通道（应用内更新源，不含源码） |
+| 🔒 **Markdown** | `2026‑09‑03 23:41` | 原生 macOS Markdown 阅读、编辑与分享工具 |
+| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑03 23:41` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **resume-workbench** | `2026‑09‑02 18:04` | 智能简历工作台：上传简历、按 JD 出适配版、面试包、网申一键填 |
 | 🔒 **cola-design-demo** | `2026‑09‑02 17:43` | — |
 | 🔒 **oneday** | `2026‑09‑01 12:35` | OneDay macOS 本地优先生活记录工具 |
