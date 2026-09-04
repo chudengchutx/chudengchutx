@@ -24,10 +24,11 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **Markdown** | `2026‑09‑04 01:16` | 原生 macOS Markdown 阅读、编辑与分享工具 |
-| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑04 01:15` | Markdown 客户端发布通道（应用内更新源，不含源码） |
+| 🔒 **obsidian-shiyi** | `2026‑09‑04 12:26` | 拾遗库 Obsidian 装修包：Cupertino + 暖纸 CSS、Bento 首页、自写插件。不含笔记和密钥。 |
+| 🔒 **cola-design-demo** | `2026‑09‑04 12:21` | ColaOS 视觉设计系统复刻 Demo：奶油纸底 + 可乐橙 + 暖棕阴影。含五界面、亮暗双主题、生产环境实测 … |
+| 🔒 **Markdown** | `2026‑09‑04 12:14` | 原生 macOS Markdown 阅读、编辑与分享工具 |
+| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑04 12:09` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **resume-workbench** | `2026‑09‑02 18:04` | 智能简历工作台：上传简历、按 JD 出适配版、面试包、网申一键填 |
-| 🔒 **cola-design-demo** | `2026‑09‑02 17:43` | — |
 | 🔒 **oneday** | `2026‑09‑01 12:35` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **ImagePreviewer** | `2026‑08‑31 21:16` | macOS 图片预览器：浏览、裁剪、OCR、去背景 |
 | 🔒 **compressi** | `2026‑08‑31 21:16` | Compressi：本地 macOS 图片压缩与格式转换，图片不上云 |
