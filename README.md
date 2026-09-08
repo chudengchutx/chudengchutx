@@ -24,8 +24,8 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **Markdown** | `2026‑09‑08 12:30` | 原生 macOS Markdown 阅读、编辑与分享工具 |
-| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑08 12:30` | Markdown 客户端发布通道（应用内更新源，不含源码） |
+| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑08 13:12` | Markdown 客户端发布通道（应用内更新源，不含源码） |
+| 🔒 **Markdown** | `2026‑09‑08 13:12` | 原生 macOS Markdown 阅读、编辑与分享工具 |
 | 🔒 **oneday** | `2026‑09‑06 23:52` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **obsidian-shiyi** | `2026‑09‑04 12:26` | 拾遗库 Obsidian 装修包：Cupertino + 暖纸 CSS、Bento 首页、自写插件。不含笔记和密钥。 |
 | 🔒 **cola-design-demo** | `2026‑09‑04 12:21` | ColaOS 视觉设计系统复刻 Demo：奶油纸底 + 可乐橙 + 暖棕阴影。含五界面、亮暗双主题、生产环境实测 … |
