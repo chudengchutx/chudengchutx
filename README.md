@@ -24,8 +24,9 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **Markdown** | `2026‑09‑14 18:49` | 原生 macOS Markdown 阅读、编辑与分享工具 |
-| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑14 18:47` | Markdown 客户端发布通道（应用内更新源，不含源码） |
+| 🔒 **OneDayCapture** | `2026‑09‑15 12:21` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
+| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑15 09:52` | Markdown 客户端发布通道（应用内更新源，不含源码） |
+| 🔒 **Markdown** | `2026‑09‑15 09:52` | 原生 macOS Markdown 阅读、编辑与分享工具 |
 | 🔒 **oneday** | `2026‑09‑06 23:52` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **obsidian-shiyi** | `2026‑09‑04 12:26` | 拾遗库 Obsidian 装修包：Cupertino + 暖纸 CSS、Bento 首页、自写插件。不含笔记和密钥。 |
 | 🔒 **cola-design-demo** | `2026‑09‑04 12:21` | ColaOS 视觉设计系统复刻 Demo：奶油纸底 + 可乐橙 + 暖棕阴影。含五界面、亮暗双主题、生产环境实测 … |
@@ -34,7 +35,6 @@
 | 🔒 **compressi** | `2026‑08‑31 21:16` | Compressi：本地 macOS 图片压缩与格式转换，图片不上云 |
 | 🔒 **gzh-writer** | `2026‑08‑31 21:15` | 公众号写手：七个 AI 智能体协作，从选题到排版 |
 | 🔒 **emoji-kitchen** | `2026‑08‑31 21:15` | 微信表情工厂：AI 生图、拼版切图、加字、合规校验并导出整套微信表情 |
-| 🔒 **OneDayCapture** | `2026‑08‑31 14:08` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
 | 🔒 **linglipin** | `2026‑08‑31 12:02` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
 | 🔒 **jianlitong** | `2026‑08‑31 11:21` | 简历通：原生 macOS SwiftUI 简历编辑器 |
 | 🔒 **lucas-site** | `2026‑08‑22 17:23` | Lucas 个人作品集：单页主页，作品 / 思考 / 关于 / 联系 |
