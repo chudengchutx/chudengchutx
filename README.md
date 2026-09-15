@@ -24,6 +24,7 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑15 19:48` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **OneDayCapture** | `2026‑09‑15 12:21` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
 | [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑15 09:52` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **Markdown** | `2026‑09‑15 09:52` | 原生 macOS Markdown 阅读、编辑与分享工具 |
