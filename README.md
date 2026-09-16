@@ -24,7 +24,8 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑16 19:08` | AI Product Learning Journey · 私人学习站 |
+| 🔒 **linglipin** | `2026‑09‑17 01:02` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
+| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑16 22:11` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **personal-website** | `2026‑09‑16 17:52` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | 🔒 **OneDayCapture** | `2026‑09‑15 12:21` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
 | [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑15 09:52` | Markdown 客户端发布通道（应用内更新源，不含源码） |
@@ -37,7 +38,6 @@
 | 🔒 **compressi** | `2026‑08‑31 21:16` | Compressi：本地 macOS 图片压缩与格式转换，图片不上云 |
 | 🔒 **gzh-writer** | `2026‑08‑31 21:15` | 公众号写手：七个 AI 智能体协作，从选题到排版 |
 | 🔒 **emoji-kitchen** | `2026‑08‑31 21:15` | 微信表情工厂：AI 生图、拼版切图、加字、合规校验并导出整套微信表情 |
-| 🔒 **linglipin** | `2026‑08‑31 12:02` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
 | 🔒 **jianlitong** | `2026‑08‑31 11:21` | 简历通：原生 macOS SwiftUI 简历编辑器 |
 | 🔒 **lucas-site** | `2026‑08‑22 17:23` | Lucas 个人作品集：单页主页，作品 / 思考 / 关于 / 联系 |
 | [cola-pages](https://github.com/chudengchutx/cola-pages) | `2026‑08‑22 17:12` | Cola 项目共用的 GitHub Pages 部署仓 |
@@ -56,6 +56,7 @@
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| [pm-skills](https://github.com/chudengchutx/pm-skills) | `2026‑09‑15 05:15` | PM Skills Marketplace: 100+ agentic skills, commands, and… |
 | [ip-as-logo-skill](https://github.com/chudengchutx/ip-as-logo-skill) | `2026‑08‑19 13:31` | A compact Agent Skill for highly simplified, rounded, sub… |
 | [grok-app](https://github.com/chudengchutx/grok-app) | `2026‑08‑18 11:07` | Desktop workbench for Grok Build CLI — sessions, projects… |
 | [md-wechat](https://github.com/chudengchutx/md-wechat) | `2026‑08‑12 15:37` | WeChat Markdown editor & formatter｜公众号 Markdown 排版工具：26 套… |
@@ -63,7 +64,6 @@
 | [sub2api](https://github.com/chudengchutx/sub2api) | `2026‑07‑17 22:09` | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车… |
 | [claude-relay-service](https://github.com/chudengchutx/claude-relay-service) | `2026‑07‑15 09:00` | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droi… |
 | [PixelRAG](https://github.com/chudengchutx/PixelRAG) | `2026‑06‑24 17:01` | The end of web parsing. The beginning of scalable pixel-n… |
-| [Proma](https://github.com/chudengchutx/Proma) | `2026‑06‑16 23:43` | 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive… |
 <!-- FORKS:END -->
 
 <sub>每小时由 GitHub Actions 刷新。勿手改榜单区。</sub>
