@@ -24,7 +24,8 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑16 12:56` | AI Product Learning Journey · 私人学习站 |
+| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑16 19:08` | AI Product Learning Journey · 私人学习站 |
+| 🔒 **personal-website** | `2026‑09‑16 17:52` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | 🔒 **OneDayCapture** | `2026‑09‑15 12:21` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
 | [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑15 09:52` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **Markdown** | `2026‑09‑15 09:52` | 原生 macOS Markdown 阅读、编辑与分享工具 |
@@ -41,7 +42,6 @@
 | 🔒 **lucas-site** | `2026‑08‑22 17:23` | Lucas 个人作品集：单页主页，作品 / 思考 / 关于 / 联系 |
 | [cola-pages](https://github.com/chudengchutx/cola-pages) | `2026‑08‑22 17:12` | Cola 项目共用的 GitHub Pages 部署仓 |
 | [obsidian-advanced-play](https://github.com/chudengchutx/obsidian-advanced-play) | `2026‑08‑18 22:59` | Obsidian 高阶玩法：属性、Bases、知识复利与 Agent 扫库约定 |
-| 🔒 **personal-website** | `2026‑08‑06 14:47` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | [ai-personal-tools](https://github.com/chudengchutx/ai-personal-tools) | `2026‑05‑05 18:53` | AI-assisted personal tools: membership price parser, job … |
 | 🔒 **claude-code-history** | `2026‑04‑15 20:09` | Claude Code 对话与工作上下文备份，换机后续上 |
 | 🔒 **magic** | `2026‑04‑15 18:24` | Magic Resume：在线简历编辑，实时预览、主题与 PDF 导出 |
