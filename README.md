@@ -24,9 +24,9 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **Markdown** | `2026‑09‑22 20:18` | 原生 macOS Markdown 阅读、编辑与分享工具 |
+| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑22 20:17` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **AI-Product-Learning-Journey** | `2026‑09‑21 19:00` | AI Product Learning Journey · 私人学习站 |
-| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑21 14:47` | Markdown 客户端发布通道（应用内更新源，不含源码） |
-| 🔒 **Markdown** | `2026‑09‑21 14:47` | 原生 macOS Markdown 阅读、编辑与分享工具 |
 | 🔒 **jieping-zhushou** | `2026‑09‑20 22:02` | 截屏助手 · macOS 菜单栏会议 PPT 自动跟拍 + 智能去重 + 一键合成 PDF（纯本地） |
 | 🔒 **linglipin** | `2026‑09‑17 01:02` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
 | 🔒 **personal-website** | `2026‑09‑16 17:52` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
