@@ -24,7 +24,7 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑24 22:41` | AI Product Learning Journey · 私人学习站 |
+| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑25 01:34` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **Markdown** | `2026‑09‑23 22:26` | 原生 macOS Markdown 阅读、编辑与分享工具 |
 | [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑23 22:23` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **jieping-zhushou** | `2026‑09‑20 22:02` | 截屏助手 · macOS 菜单栏会议 PPT 自动跟拍 + 智能去重 + 一键合成 PDF（纯本地） |
