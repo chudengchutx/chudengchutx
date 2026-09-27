@@ -24,7 +24,7 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑26 20:53` | AI Product Learning Journey · 私人学习站 |
+| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑28 00:51` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **Markdown** | `2026‑09‑23 22:26` | 原生 macOS Markdown 阅读、编辑与分享工具 |
 | [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑23 22:23` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **jieping-zhushou** | `2026‑09‑20 22:02` | 截屏助手 · macOS 菜单栏会议 PPT 自动跟拍 + 智能去重 + 一键合成 PDF（纯本地） |
@@ -57,14 +57,14 @@
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| [dsh-TUI](https://github.com/chudengchutx/dsh-TUI) | `2026‑09‑28 00:12` | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。… |
+| [ObsidianUI](https://github.com/chudengchutx/ObsidianUI) | `2026‑09‑24 16:10` | React & Tailwind CSS Components Library |
 | [pm-skills](https://github.com/chudengchutx/pm-skills) | `2026‑09‑15 05:15` | PM Skills Marketplace: 100+ agentic skills, commands, and… |
 | [ip-as-logo-skill](https://github.com/chudengchutx/ip-as-logo-skill) | `2026‑08‑19 13:31` | A compact Agent Skill for highly simplified, rounded, sub… |
 | [grok-app](https://github.com/chudengchutx/grok-app) | `2026‑08‑18 11:07` | Desktop workbench for Grok Build CLI — sessions, projects… |
 | [md-wechat](https://github.com/chudengchutx/md-wechat) | `2026‑08‑12 15:37` | WeChat Markdown editor & formatter｜公众号 Markdown 排版工具：26 套… |
 | [LockIME](https://github.com/chudengchutx/LockIME) | `2026‑07‑21 09:44` | A native macOS menu-bar app that keeps your keyboard inpu… |
 | [sub2api](https://github.com/chudengchutx/sub2api) | `2026‑07‑17 22:09` | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车… |
-| [claude-relay-service](https://github.com/chudengchutx/claude-relay-service) | `2026‑07‑15 09:00` | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droi… |
-| [PixelRAG](https://github.com/chudengchutx/PixelRAG) | `2026‑06‑24 17:01` | The end of web parsing. The beginning of scalable pixel-n… |
 <!-- FORKS:END -->
 
 <sub>每小时由 GitHub Actions 刷新。勿手改榜单区。</sub>
