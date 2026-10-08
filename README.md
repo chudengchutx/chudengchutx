@@ -1,5 +1,3 @@
-[中文](#中文) · English
-
 # Chudeng
 
 Product maker. I build tools for myself, to be used by myself.
@@ -30,7 +28,8 @@ Swift · SwiftUI · TypeScript · Python
 
 ---
 
-## 中文
+<details>
+<summary>中文</summary>
 
 # 初灯
 
@@ -60,6 +59,4 @@ Swift · SwiftUI · TypeScript · Python
 
 Swift · SwiftUI · TypeScript · Python
 
----
-
-[English](#chudeng)
+</details>
