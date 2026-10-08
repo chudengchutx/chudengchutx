@@ -28,4 +28,3 @@ Swift · SwiftUI · TypeScript · Python
 
 ---
 
-杭州
