@@ -1,3 +1,5 @@
+[中文](README.zh-CN.md)
+
 # Chudeng
 
 Product maker. I build tools for myself, to be used by myself.
@@ -25,38 +27,3 @@ Local-first · Data sovereignty · Built to last
 ### Craft
 
 Swift · SwiftUI · TypeScript · Python
-
----
-
-<details>
-<summary>中文</summary>
-
-# 初灯
-
-产品人。自己写工具，给自己用。
-
-> 工具该安静、好用、好看，只服务于你自己。
-
-本地优先 · 数据主权 · 长期主义
-
----
-
-### 代表作
-
-**OneDay** — 本地优先的生活记录。打开即写，写完即走。`macOS`
-
-**OneDayCapture** — 一日一拍：拍摄 · 提词 · 字幕 · 成片。`iOS`
-
-**Markdown** — 原生阅读、编辑与分享。`macOS`
-
-**简历通** — 原生简历编辑器。`macOS`
-
-**邻里拼** — 小区拼单，认商品、算费用。`小程序`
-
----
-
-### 手艺
-
-Swift · SwiftUI · TypeScript · Python
-
-</details>
