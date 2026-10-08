@@ -27,3 +27,48 @@ Local-first · Data sovereignty · Built to last
 ### Craft
 
 Swift · SwiftUI · TypeScript · Python
+
+<!-- OWN_REPOS:START -->
+| 仓库 | 最近更新 | 说明 |
+|:---|:---:|---|
+| 🔒 **oneday** | `2026‑10‑08 11:48` | OneDay macOS 本地优先生活记录工具 |
+| 🔒 **Monica** | `2026‑10‑08 10:19` | — |
+| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑28 00:51` | AI Product Learning Journey · 私人学习站 |
+| 🔒 **Markdown** | `2026‑09‑23 22:26` | 原生 macOS Markdown 阅读、编辑与分享工具 |
+| [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑09‑23 22:23` | Markdown 客户端发布通道（应用内更新源，不含源码） |
+| 🔒 **jieping-zhushou** | `2026‑09‑20 22:02` | 截屏助手 · macOS 菜单栏会议 PPT 自动跟拍 + 智能去重 + 一键合成 PDF（纯本地） |
+| 🔒 **linglipin** | `2026‑09‑17 01:02` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
+| 🔒 **personal-website** | `2026‑09‑16 17:52` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
+| 🔒 **OneDayCapture** | `2026‑09‑15 12:21` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
+| 🔒 **obsidian-shiyi** | `2026‑09‑04 12:26` | 拾遗库 Obsidian 装修包：Cupertino + 暖纸 CSS、Bento 首页、自写插件。不含笔记和密钥。 |
+| 🔒 **cola-design-demo** | `2026‑09‑04 12:21` | ColaOS 视觉设计系统复刻 Demo：奶油纸底 + 可乐橙 + 暖棕阴影。含五界面、亮暗双主题、生产环境实测 … |
+| 🔒 **resume-workbench** | `2026‑09‑02 18:04` | 智能简历工作台：上传简历、按 JD 出适配版、面试包、网申一键填 |
+| 🔒 **ImagePreviewer** | `2026‑08‑31 21:16` | macOS 图片预览器：浏览、裁剪、OCR、去背景 |
+| 🔒 **compressi** | `2026‑08‑31 21:16` | Compressi：本地 macOS 图片压缩与格式转换，图片不上云 |
+| 🔒 **gzh-writer** | `2026‑08‑31 21:15` | 公众号写手：七个 AI 智能体协作，从选题到排版 |
+| 🔒 **emoji-kitchen** | `2026‑08‑31 21:15` | 微信表情工厂：AI 生图、拼版切图、加字、合规校验并导出整套微信表情 |
+| 🔒 **jianlitong** | `2026‑08‑31 11:21` | 简历通：原生 macOS SwiftUI 简历编辑器 |
+| 🔒 **lucas-site** | `2026‑08‑22 17:23` | Lucas 个人作品集：单页主页，作品 / 思考 / 关于 / 联系 |
+| [cola-pages](https://github.com/chudengchutx/cola-pages) | `2026‑08‑22 17:12` | Cola 项目共用的 GitHub Pages 部署仓 |
+| [obsidian-advanced-play](https://github.com/chudengchutx/obsidian-advanced-play) | `2026‑08‑18 22:59` | Obsidian 高阶玩法：属性、Bases、知识复利与 Agent 扫库约定 |
+| [ai-personal-tools](https://github.com/chudengchutx/ai-personal-tools) | `2026‑05‑05 18:53` | AI-assisted personal tools: membership price parser, job … |
+| 🔒 **claude-code-history** | `2026‑04‑15 20:09` | Claude Code 对话与工作上下文备份，换机后续上 |
+| 🔒 **magic** | `2026‑04‑15 18:24` | Magic Resume：在线简历编辑，实时预览、主题与 PDF 导出 |
+| 🔒 **movie** | `2026‑04‑15 13:49` | 电影资源自动搜索、转存夸克并下载到极空间 NAS |
+| 🔒 **peek** | `2026‑04‑15 12:25` | Peek：macOS 贴顶侧边栏，搜索链接、查看 GitHub |
+| 🔒 **EnglishDiary** | `2026‑04‑14 18:11` | 英语学习日记 iOS App — SwiftUI + SQLite + iCloud 同步 |
+| 🔒 **learning-English** | `2026‑04‑14 15:51` | 阿布英语学习日记：生成课程、导入学习并追踪进度 |
+<!-- OWN_REPOS:END -->
+
+<!-- FORKS:START -->
+| 仓库 | 最近更新 | 说明 |
+|:---|:---:|---|
+| [AIHOT](https://github.com/chudengchutx/AIHOT) | `2026‑10‑01 13:34` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [dsh-TUI](https://github.com/chudengchutx/dsh-TUI) | `2026‑09‑28 00:12` | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。… |
+| [ObsidianUI](https://github.com/chudengchutx/ObsidianUI) | `2026‑09‑24 16:10` | React & Tailwind CSS Components Library |
+| [pm-skills](https://github.com/chudengchutx/pm-skills) | `2026‑09‑15 05:15` | PM Skills Marketplace: 100+ agentic skills, commands, and… |
+| [ip-as-logo-skill](https://github.com/chudengchutx/ip-as-logo-skill) | `2026‑08‑19 13:31` | A compact Agent Skill for highly simplified, rounded, sub… |
+| [grok-app](https://github.com/chudengchutx/grok-app) | `2026‑08‑18 11:07` | Desktop workbench for Grok Build CLI — sessions, projects… |
+| [md-wechat](https://github.com/chudengchutx/md-wechat) | `2026‑08‑12 15:37` | WeChat Markdown editor & formatter｜公众号 Markdown 排版工具：26 套… |
+| [LockIME](https://github.com/chudengchutx/LockIME) | `2026‑07‑21 09:44` | A native macOS menu-bar app that keeps your keyboard inpu… |
+<!-- FORKS:END -->
