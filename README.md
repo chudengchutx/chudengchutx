@@ -55,7 +55,7 @@
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **Monica** | `2026‑10‑06 21:08` | — |
+| 🔒 **Monica** | `2026‑10‑08 09:48` | — |
 | 🔒 **oneday** | `2026‑10‑03 17:27` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **AI-Product-Learning-Journey** | `2026‑09‑28 00:51` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **Markdown** | `2026‑09‑23 22:26` | 原生 macOS Markdown 阅读、编辑与分享工具 |
