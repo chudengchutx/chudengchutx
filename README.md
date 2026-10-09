@@ -63,6 +63,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| [oil-find](https://github.com/chudengchutx/oil-find) | `2026‑10‑09 16:48` | 苹果版的 Everything：按 ⇧⌘F，输入即出结果。 |
 | [AIHOT](https://github.com/chudengchutx/AIHOT) | `2026‑10‑01 13:34` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
 | [dsh-TUI](https://github.com/chudengchutx/dsh-TUI) | `2026‑09‑28 00:12` | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。… |
 | [ObsidianUI](https://github.com/chudengchutx/ObsidianUI) | `2026‑09‑24 16:10` | React & Tailwind CSS Components Library |
@@ -70,5 +71,4 @@ Swift · SwiftUI · TypeScript · Python
 | [ip-as-logo-skill](https://github.com/chudengchutx/ip-as-logo-skill) | `2026‑08‑19 13:31` | A compact Agent Skill for highly simplified, rounded, sub… |
 | [grok-app](https://github.com/chudengchutx/grok-app) | `2026‑08‑18 11:07` | Desktop workbench for Grok Build CLI — sessions, projects… |
 | [md-wechat](https://github.com/chudengchutx/md-wechat) | `2026‑08‑12 15:37` | WeChat Markdown editor & formatter｜公众号 Markdown 排版工具：26 套… |
-| [LockIME](https://github.com/chudengchutx/LockIME) | `2026‑07‑21 09:44` | A native macOS menu-bar app that keeps your keyboard inpu… |
 <!-- FORKS:END -->
