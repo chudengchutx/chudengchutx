@@ -31,7 +31,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **oneday** | `2026‑10‑08 23:28` | OneDay macOS 本地优先生活记录工具 |
+| 🔒 **oneday** | `2026‑10‑09 13:38` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **Markdown** | `2026‑10‑08 20:16` | 原生 macOS Markdown 阅读、编辑与分享工具 |
 | [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑10‑08 20:11` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **Monica** | `2026‑10‑08 10:19` | — |
