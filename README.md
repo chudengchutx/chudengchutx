@@ -31,6 +31,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **personal-website** | `2026‑10‑21 17:28` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | 🔒 **oneday** | `2026‑10‑16 09:07` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **rea_chu** | `2026‑10‑15 14:26` | — |
 | 🔒 **Markdown** | `2026‑10‑08 20:16` | 原生 macOS Markdown 阅读、编辑与分享工具 |
@@ -39,7 +40,6 @@ Swift · SwiftUI · TypeScript · Python
 | 🔒 **AI-Product-Learning-Journey** | `2026‑09‑28 00:51` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **jieping-zhushou** | `2026‑09‑20 22:02` | 截屏助手 · macOS 菜单栏会议 PPT 自动跟拍 + 智能去重 + 一键合成 PDF（纯本地） |
 | 🔒 **linglipin** | `2026‑09‑17 01:02` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
-| 🔒 **personal-website** | `2026‑09‑16 17:52` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | 🔒 **OneDayCapture** | `2026‑09‑15 12:21` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
 | 🔒 **obsidian-shiyi** | `2026‑09‑04 12:26` | 拾遗库 Obsidian 装修包：Cupertino + 暖纸 CSS、Bento 首页、自写插件。不含笔记和密钥。 |
 | 🔒 **cola-design-demo** | `2026‑09‑04 12:21` | ColaOS 视觉设计系统复刻 Demo：奶油纸底 + 可乐橙 + 暖棕阴影。含五界面、亮暗双主题、生产环境实测 … |
