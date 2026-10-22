@@ -31,6 +31,8 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **lumax** | `2026‑10‑22 15:42` | Lumax — personal AI desktop agent (based on open-source P… |
+| 🔒 **lumax-legacy** | `2026‑10‑22 10:32` | Lumax — personal AI desktop agent (based on open-source P… |
 | 🔒 **personal-website** | `2026‑10‑21 17:28` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | 🔒 **oneday** | `2026‑10‑16 09:07` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **rea_chu** | `2026‑10‑15 14:26` | — |
@@ -64,12 +66,12 @@ Swift · SwiftUI · TypeScript · Python
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| [Proma](https://github.com/chudengchutx/Proma) | `2026‑10‑22 08:50` | 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive… |
+| [memmy-agent](https://github.com/chudengchutx/memmy-agent) | `2026‑10‑22 10:39` | 🍙  A personal AI agent & local memory hub for all AI agen… |
+| [Proma](https://github.com/chudengchutx/Proma) | `2026‑10‑22 10:29` | 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive… |
 | [oil-find](https://github.com/chudengchutx/oil-find) | `2026‑10‑09 16:48` | 苹果版的 Everything：按 ⇧⌘F，输入即出结果。 |
 | [AIHOT](https://github.com/chudengchutx/AIHOT) | `2026‑10‑01 13:34` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
 | [dsh-TUI](https://github.com/chudengchutx/dsh-TUI) | `2026‑09‑28 00:12` | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。… |
 | [ObsidianUI](https://github.com/chudengchutx/ObsidianUI) | `2026‑09‑24 16:10` | React & Tailwind CSS Components Library |
 | [pm-skills](https://github.com/chudengchutx/pm-skills) | `2026‑09‑15 05:15` | PM Skills Marketplace: 100+ agentic skills, commands, and… |
 | [ip-as-logo-skill](https://github.com/chudengchutx/ip-as-logo-skill) | `2026‑08‑19 13:31` | A compact Agent Skill for highly simplified, rounded, sub… |
-| [grok-app](https://github.com/chudengchutx/grok-app) | `2026‑08‑18 11:07` | Desktop workbench for Grok Build CLI — sessions, projects… |
 <!-- FORKS:END -->
