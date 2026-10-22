@@ -31,21 +31,22 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **AI-Product-Learning-Journey** | `2026‑10‑22 22:33` | AI Product Learning Journey · 私人学习站 |
+| 🔒 **personal-website** | `2026‑10‑22 22:33` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
+| 🔒 **OneDayCapture** | `2026‑10‑22 22:33` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
+| 🔒 **oneday** | `2026‑10‑22 22:32` | OneDay macOS 本地优先生活记录工具 |
+| 🔒 **peek** | `2026‑10‑22 22:32` | Peek：macOS 贴顶侧边栏，搜索链接、查看 GitHub |
 | 🔒 **Monica** | `2026‑10‑22 19:28` | — |
 | 🔒 **movie_tool** | `2026‑10‑22 19:25` | — |
 | 🔒 **linglipin** | `2026‑10‑22 19:21` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
 | 🔒 **OneDay-iOS** | `2026‑10‑22 19:21` | — |
 | 🔒 **lumax** | `2026‑10‑22 19:09` | Lumax — personal AI desktop agent (based on open-source P… |
 | 🔒 **lumax-legacy** | `2026‑10‑22 10:32` | Lumax — personal AI desktop agent (based on open-source P… |
-| 🔒 **personal-website** | `2026‑10‑21 17:28` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
-| 🔒 **oneday** | `2026‑10‑16 09:07` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **rea_chu** | `2026‑10‑15 14:26` | — |
 | 🔒 **Markdown** | `2026‑10‑08 20:16` | 原生 macOS Markdown 阅读、编辑与分享工具 |
 | [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑10‑08 20:11` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **Monica-legacy** | `2026‑10‑08 10:19` | — |
-| 🔒 **AI-Product-Learning-Journey** | `2026‑09‑28 00:51` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **jieping-zhushou** | `2026‑09‑20 22:02` | 截屏助手 · macOS 菜单栏会议 PPT 自动跟拍 + 智能去重 + 一键合成 PDF（纯本地） |
-| 🔒 **OneDayCapture** | `2026‑09‑15 12:21` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
 | 🔒 **obsidian-shiyi** | `2026‑09‑04 12:26` | 拾遗库 Obsidian 装修包：Cupertino + 暖纸 CSS、Bento 首页、自写插件。不含笔记和密钥。 |
 | 🔒 **cola-design-demo** | `2026‑09‑04 12:21` | ColaOS 视觉设计系统复刻 Demo：奶油纸底 + 可乐橙 + 暖棕阴影。含五界面、亮暗双主题、生产环境实测 … |
 | 🔒 **resume-workbench** | `2026‑09‑02 18:04` | 智能简历工作台：上传简历、按 JD 出适配版、面试包、网申一键填 |
@@ -61,7 +62,6 @@ Swift · SwiftUI · TypeScript · Python
 | 🔒 **claude-code-history** | `2026‑04‑15 20:09` | Claude Code 对话与工作上下文备份，换机后续上 |
 | 🔒 **magic** | `2026‑04‑15 18:24` | Magic Resume：在线简历编辑，实时预览、主题与 PDF 导出 |
 | 🔒 **movie** | `2026‑04‑15 13:49` | 电影资源自动搜索、转存夸克并下载到极空间 NAS |
-| 🔒 **peek** | `2026‑04‑15 12:25` | Peek：macOS 贴顶侧边栏，搜索链接、查看 GitHub |
 | 🔒 **EnglishDiary** | `2026‑04‑14 18:11` | 英语学习日记 iOS App — SwiftUI + SQLite + iCloud 同步 |
 | 🔒 **learning-English** | `2026‑04‑14 15:51` | 阿布英语学习日记：生成课程、导入学习并追踪进度 |
 <!-- OWN_REPOS:END -->
