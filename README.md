@@ -31,7 +31,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| 🔒 **lumax** | `2026‑10‑23 12:49` | Lumax — personal AI desktop agent (based on open-source P… |
+| 🔒 **lumax** | `2026‑10‑23 16:27` | Lumax — personal AI desktop agent (based on open-source P… |
 | 🔒 **AI-Product-Learning-Journey** | `2026‑10‑22 22:33` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **personal-website** | `2026‑10‑22 22:33` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | 🔒 **OneDayCapture** | `2026‑10‑22 22:33` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
