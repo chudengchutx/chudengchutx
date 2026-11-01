@@ -69,6 +69,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| [iina](https://github.com/chudengchutx/iina) | `2026‑10‑31 15:38` | The modern video player for macOS. |
 | [memmy-agent](https://github.com/chudengchutx/memmy-agent) | `2026‑10‑22 10:39` | 🍙  A personal AI agent & local memory hub for all AI agen… |
 | [Proma](https://github.com/chudengchutx/Proma) | `2026‑10‑22 10:29` | 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive… |
 | [oil-find](https://github.com/chudengchutx/oil-find) | `2026‑10‑09 16:48` | 苹果版的 Everything：按 ⇧⌘F，输入即出结果。 |
@@ -76,5 +77,4 @@ Swift · SwiftUI · TypeScript · Python
 | [dsh-TUI](https://github.com/chudengchutx/dsh-TUI) | `2026‑09‑28 00:12` | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。… |
 | [ObsidianUI](https://github.com/chudengchutx/ObsidianUI) | `2026‑09‑24 16:10` | React & Tailwind CSS Components Library |
 | [pm-skills](https://github.com/chudengchutx/pm-skills) | `2026‑09‑15 05:15` | PM Skills Marketplace: 100+ agentic skills, commands, and… |
-| [ip-as-logo-skill](https://github.com/chudengchutx/ip-as-logo-skill) | `2026‑08‑19 13:31` | A compact Agent Skill for highly simplified, rounded, sub… |
 <!-- FORKS:END -->
