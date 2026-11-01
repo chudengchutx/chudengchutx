@@ -31,6 +31,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| [Shotbox](https://github.com/chudengchutx/Shotbox) | `2026‑11‑01 18:33` | macOS screenshot & annotation tool — an open-source take … |
 | 🔒 **lumax** | `2026‑10‑25 09:45` | Lumax — personal AI desktop agent (based on open-source P… |
 | 🔒 **AI-Product-Learning-Journey** | `2026‑10‑22 22:33` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **personal-website** | `2026‑10‑22 22:33` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
