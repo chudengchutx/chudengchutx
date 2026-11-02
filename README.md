@@ -31,17 +31,19 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **Monica** | `2026‑11‑02 12:55` | — |
+| 🔒 **project-archive** | `2026‑11‑02 12:39` | — |
+| 🔒 **hecaitou-fetch** | `2026‑11‑02 12:39` | — |
+| 🔒 **personal-website** | `2026‑11‑02 12:36` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
+| 🔒 **OneDay-iOS** | `2026‑11‑02 12:36` | — |
+| 🔒 **OneDayCapture** | `2026‑11‑02 12:36` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
+| 🔒 **oneday** | `2026‑11‑02 12:36` | OneDay macOS 本地优先生活记录工具 |
+| 🔒 **lumax** | `2026‑11‑02 12:35` | Lumax — personal AI desktop agent (based on open-source P… |
 | [Shotbox](https://github.com/chudengchutx/Shotbox) | `2026‑11‑01 18:33` | macOS screenshot & annotation tool — an open-source take … |
-| 🔒 **lumax** | `2026‑10‑25 09:45` | Lumax — personal AI desktop agent (based on open-source P… |
 | 🔒 **AI-Product-Learning-Journey** | `2026‑10‑22 22:33` | AI Product Learning Journey · 私人学习站 |
-| 🔒 **personal-website** | `2026‑10‑22 22:33` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
-| 🔒 **OneDayCapture** | `2026‑10‑22 22:33` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
-| 🔒 **oneday** | `2026‑10‑22 22:32` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **peek** | `2026‑10‑22 22:32` | Peek：macOS 贴顶侧边栏，搜索链接、查看 GitHub |
-| 🔒 **Monica** | `2026‑10‑22 19:28` | — |
 | 🔒 **movie_tool** | `2026‑10‑22 19:25` | — |
 | 🔒 **linglipin** | `2026‑10‑22 19:21` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
-| 🔒 **OneDay-iOS** | `2026‑10‑22 19:21` | — |
 | 🔒 **lumax-legacy** | `2026‑10‑22 10:32` | Lumax — personal AI desktop agent (based on open-source P… |
 | 🔒 **rea_chu** | `2026‑10‑15 14:26` | — |
 | 🔒 **Markdown** | `2026‑10‑08 20:16` | 原生 macOS Markdown 阅读、编辑与分享工具 |
@@ -70,6 +72,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| [magic-resume](https://github.com/chudengchutx/magic-resume) | `2026‑11‑02 12:36` | 基于魔方简历二次开发 |
 | [iina](https://github.com/chudengchutx/iina) | `2026‑10‑31 15:38` | The modern video player for macOS. |
 | [memmy-agent](https://github.com/chudengchutx/memmy-agent) | `2026‑10‑22 10:39` | 🍙  A personal AI agent & local memory hub for all AI agen… |
 | [Proma](https://github.com/chudengchutx/Proma) | `2026‑10‑22 10:29` | 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive… |
@@ -77,5 +80,4 @@ Swift · SwiftUI · TypeScript · Python
 | [AIHOT](https://github.com/chudengchutx/AIHOT) | `2026‑10‑01 13:34` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
 | [dsh-TUI](https://github.com/chudengchutx/dsh-TUI) | `2026‑09‑28 00:12` | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。… |
 | [ObsidianUI](https://github.com/chudengchutx/ObsidianUI) | `2026‑09‑24 16:10` | React & Tailwind CSS Components Library |
-| [pm-skills](https://github.com/chudengchutx/pm-skills) | `2026‑09‑15 05:15` | PM Skills Marketplace: 100+ agentic skills, commands, and… |
 <!-- FORKS:END -->
