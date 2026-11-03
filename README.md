@@ -31,6 +31,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **jianlitong** | `2026‑11‑03 14:02` | 简历通：原生 macOS SwiftUI 简历编辑器 |
 | 🔒 **Monica** | `2026‑11‑02 15:28` | — |
 | 🔒 **project-archive** | `2026‑11‑02 12:39` | — |
 | 🔒 **hecaitou-fetch** | `2026‑11‑02 12:39` | — |
@@ -57,7 +58,6 @@ Swift · SwiftUI · TypeScript · Python
 | 🔒 **compressi** | `2026‑08‑31 21:16` | Compressi：本地 macOS 图片压缩与格式转换，图片不上云 |
 | 🔒 **gzh-writer** | `2026‑08‑31 21:15` | 公众号写手：七个 AI 智能体协作，从选题到排版 |
 | 🔒 **emoji-kitchen** | `2026‑08‑31 21:15` | 微信表情工厂：AI 生图、拼版切图、加字、合规校验并导出整套微信表情 |
-| 🔒 **jianlitong** | `2026‑08‑31 11:21` | 简历通：原生 macOS SwiftUI 简历编辑器 |
 | 🔒 **lucas-site** | `2026‑08‑22 17:23` | Lucas 个人作品集：单页主页，作品 / 思考 / 关于 / 联系 |
 | [cola-pages](https://github.com/chudengchutx/cola-pages) | `2026‑08‑22 17:12` | Cola 项目共用的 GitHub Pages 部署仓 |
 | [obsidian-advanced-play](https://github.com/chudengchutx/obsidian-advanced-play) | `2026‑08‑18 22:59` | Obsidian 高阶玩法：属性、Bases、知识复利与 Agent 扫库约定 |
