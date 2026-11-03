@@ -31,14 +31,14 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **personal-website** | `2026‑11‑03 20:32` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
+| 🔒 **oneday** | `2026‑11‑03 20:16` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **jianlitong** | `2026‑11‑03 14:02` | 简历通：原生 macOS SwiftUI 简历编辑器 |
 | 🔒 **Monica** | `2026‑11‑02 15:28` | — |
 | 🔒 **project-archive** | `2026‑11‑02 12:39` | — |
 | 🔒 **hecaitou-fetch** | `2026‑11‑02 12:39` | — |
-| 🔒 **personal-website** | `2026‑11‑02 12:36` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | 🔒 **OneDay-iOS** | `2026‑11‑02 12:36` | — |
 | 🔒 **OneDayCapture** | `2026‑11‑02 12:36` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
-| 🔒 **oneday** | `2026‑11‑02 12:36` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **lumax** | `2026‑11‑02 12:35` | Lumax — personal AI desktop agent (based on open-source P… |
 | [Shotbox](https://github.com/chudengchutx/Shotbox) | `2026‑11‑01 18:33` | macOS screenshot & annotation tool — an open-source take … |
 | 🔒 **AI-Product-Learning-Journey** | `2026‑10‑22 22:33` | AI Product Learning Journey · 私人学习站 |
@@ -72,6 +72,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| [cicada](https://github.com/chudengchutx/cicada) | `2026‑11‑03 16:19` | 知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitl… |
 | [magic-resume](https://github.com/chudengchutx/magic-resume) | `2026‑11‑02 12:36` | 基于魔方简历二次开发 |
 | [iina](https://github.com/chudengchutx/iina) | `2026‑10‑31 15:38` | The modern video player for macOS. |
 | [memmy-agent](https://github.com/chudengchutx/memmy-agent) | `2026‑10‑22 10:39` | 🍙  A personal AI agent & local memory hub for all AI agen… |
@@ -79,5 +80,4 @@ Swift · SwiftUI · TypeScript · Python
 | [oil-find](https://github.com/chudengchutx/oil-find) | `2026‑10‑09 16:48` | 苹果版的 Everything：按 ⇧⌘F，输入即出结果。 |
 | [AIHOT](https://github.com/chudengchutx/AIHOT) | `2026‑10‑01 13:34` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
 | [dsh-TUI](https://github.com/chudengchutx/dsh-TUI) | `2026‑09‑28 00:12` | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。… |
-| [ObsidianUI](https://github.com/chudengchutx/ObsidianUI) | `2026‑09‑24 16:10` | React & Tailwind CSS Components Library |
 <!-- FORKS:END -->
