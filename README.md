@@ -72,7 +72,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| [quiet-md](https://github.com/chudengchutx/quiet-md) | `2026‑11‑05 01:39` | Blazing-fast native notes app for macOS & Windows. Rust +… |
+| [quiet-md](https://github.com/chudengchutx/quiet-md) | `2026‑11‑11 22:50` | Blazing-fast native notes app for macOS & Windows. Rust +… |
 | [cicada](https://github.com/chudengchutx/cicada) | `2026‑11‑03 16:19` | 知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitl… |
 | [magic-resume](https://github.com/chudengchutx/magic-resume) | `2026‑11‑02 12:36` | 基于魔方简历二次开发 |
 | [iina](https://github.com/chudengchutx/iina) | `2026‑10‑31 15:38` | The modern video player for macOS. |
