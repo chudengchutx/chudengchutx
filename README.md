@@ -31,6 +31,8 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **lumax** | `2026‑11‑12 10:33` | Lumax — personal AI desktop agent (based on open-source P… |
+| [Quiet](https://github.com/chudengchutx/Quiet) | `2026‑11‑12 10:08` | Blazing-fast native notes app for macOS & Windows. Rust +… |
 | 🔒 **personal-website** | `2026‑11‑06 14:50` | 个人作品集 CMS：前台展示与后台编辑，Next.js + Supabase |
 | 🔒 **oneday** | `2026‑11‑06 14:49` | OneDay macOS 本地优先生活记录工具 |
 | 🔒 **jianlitong** | `2026‑11‑03 14:02` | 简历通：原生 macOS SwiftUI 简历编辑器 |
@@ -39,7 +41,6 @@ Swift · SwiftUI · TypeScript · Python
 | 🔒 **hecaitou-fetch** | `2026‑11‑02 12:39` | — |
 | 🔒 **OneDay-iOS** | `2026‑11‑02 12:36` | — |
 | 🔒 **OneDayCapture** | `2026‑11‑02 12:36` | 一日一拍：iPhone 视频日记拍摄、提词、字幕校对与成片导出 |
-| 🔒 **lumax** | `2026‑11‑02 12:35` | Lumax — personal AI desktop agent (based on open-source P… |
 | [Shotbox](https://github.com/chudengchutx/Shotbox) | `2026‑11‑01 18:33` | macOS screenshot & annotation tool — an open-source take … |
 | 🔒 **AI-Product-Learning-Journey** | `2026‑10‑22 22:33` | AI Product Learning Journey · 私人学习站 |
 | 🔒 **peek** | `2026‑10‑22 22:32` | Peek：macOS 贴顶侧边栏，搜索链接、查看 GitHub |
@@ -72,7 +73,6 @@ Swift · SwiftUI · TypeScript · Python
 <!-- FORKS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
-| [quiet-md](https://github.com/chudengchutx/quiet-md) | `2026‑11‑11 22:50` | Blazing-fast native notes app for macOS & Windows. Rust +… |
 | [cicada](https://github.com/chudengchutx/cicada) | `2026‑11‑03 16:19` | 知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitl… |
 | [magic-resume](https://github.com/chudengchutx/magic-resume) | `2026‑11‑02 12:36` | 基于魔方简历二次开发 |
 | [iina](https://github.com/chudengchutx/iina) | `2026‑10‑31 15:38` | The modern video player for macOS. |
@@ -80,4 +80,5 @@ Swift · SwiftUI · TypeScript · Python
 | [Proma](https://github.com/chudengchutx/Proma) | `2026‑10‑22 10:29` | 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive… |
 | [oil-find](https://github.com/chudengchutx/oil-find) | `2026‑10‑09 16:48` | 苹果版的 Everything：按 ⇧⌘F，输入即出结果。 |
 | [AIHOT](https://github.com/chudengchutx/AIHOT) | `2026‑10‑01 13:34` | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [dsh-TUI](https://github.com/chudengchutx/dsh-TUI) | `2026‑09‑28 00:12` | DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。… |
 <!-- FORKS:END -->
