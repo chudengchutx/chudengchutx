@@ -31,6 +31,7 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **rea_chu** | `2026‑11‑22 02:55` | — |
 | 🔒 **lumax** | `2026‑11‑20 23:08` | Lumax — personal AI desktop agent (based on open-source P… |
 | [Quiet](https://github.com/chudengchutx/Quiet) | `2026‑11‑18 09:19` | Blazing-fast native notes app for macOS & Windows. Rust +… |
 | 🔒 **Monica** | `2026‑11‑16 23:20` | — |
@@ -47,7 +48,6 @@ Swift · SwiftUI · TypeScript · Python
 | 🔒 **movie_tool** | `2026‑10‑22 19:25` | — |
 | 🔒 **linglipin** | `2026‑10‑22 19:21` | 小区拼单不用愁，「邻里拼」来帮你分忧。一键AI识别商品信息，自动统计费用，告别群内统计乱象，轻松搞定小区拼单。 |
 | 🔒 **lumax-legacy** | `2026‑10‑22 10:32` | Lumax — personal AI desktop agent (based on open-source P… |
-| 🔒 **rea_chu** | `2026‑10‑15 14:26` | — |
 | 🔒 **Markdown** | `2026‑10‑08 20:16` | 原生 macOS Markdown 阅读、编辑与分享工具 |
 | [Markdown-Releases](https://github.com/chudengchutx/Markdown-Releases) | `2026‑10‑08 20:11` | Markdown 客户端发布通道（应用内更新源，不含源码） |
 | 🔒 **Monica-legacy** | `2026‑10‑08 10:19` | — |
