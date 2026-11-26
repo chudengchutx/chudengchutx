@@ -31,8 +31,8 @@ Swift · SwiftUI · TypeScript · Python
 <!-- OWN_REPOS:START -->
 | 仓库 | 最近更新 | 说明 |
 |:---|:---:|---|
+| 🔒 **rea_chu** | `2026‑11‑26 22:24` | — |
 | 🔒 **oneday** | `2026‑11‑22 18:10` | OneDay macOS 本地优先生活记录工具 |
-| 🔒 **rea_chu** | `2026‑11‑22 09:12` | — |
 | 🔒 **lumax** | `2026‑11‑20 23:08` | Lumax — personal AI desktop agent (based on open-source P… |
 | [Quiet](https://github.com/chudengchutx/Quiet) | `2026‑11‑18 09:19` | Blazing-fast native notes app for macOS & Windows. Rust +… |
 | 🔒 **Monica** | `2026‑11‑16 23:20` | — |
